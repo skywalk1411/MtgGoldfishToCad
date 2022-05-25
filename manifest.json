@@ -1,0 +1,47 @@
+{
+    "manifest_version": 2,
+    "name": "MtgGoldfishToCad",
+    "version": "1.7",
+    "description": "Display MtgGoldFish prices as (CAD$) Canadian Dollars.",
+    "icons": {
+        "48": "icons/border-48.png"
+    },
+    "content_scripts": [
+        {
+            "matches": ["*://*.mtggoldfish.com/sets/*"],
+            "js": ["usdToCadPerSets.js"]
+        },
+        {
+            "matches": ["*://*.mtggoldfish.com/price/*"],
+            "js": ["usdToCadPerCards.js"]
+        },
+        {
+            "matches": ["*://*.mtggoldfish.com/archetype/*"],
+            "js": ["usdToCadPerDecks.js"]
+        },
+        {
+            "matches": ["*://*.mtggoldfish.com/movers/paper/*"],
+            "js": ["usdToCadMovers.js"]
+        },
+        {
+            "matches": ["*://*.mtggoldfish.com/movers-details/paper/*"],
+            "js": ["usdToCadMoversDetails.js"]
+        },
+        {
+            "matches": ["*://*.mtggoldfish.com/prices/paper/*"],
+            "js": ["usdToCadPrices.js"]
+        },
+        {
+            "matches": ["*://*.mtggoldfish.com/index/*"],
+            "js": ["usdToCadIndexes.js"]
+        },
+        {
+            "matches": ["*://*.mtggoldfish.com/deck/*"],
+            "js": ["usdToCadPerDecks.js"]
+        }
+    ],
+    "permissions": [
+        "storage",
+        "<all_urls>"
+      ]
+}
