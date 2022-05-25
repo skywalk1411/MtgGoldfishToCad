@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "MtgGoldfishToCad",
-    "version": "1.7",
+    "version": "1.8",
     "description": "Display MtgGoldFish prices as (CAD$) Canadian Dollars.",
     "icons": {
         "48": "icons/border-48.png"
@@ -41,7 +41,6 @@
         }
     ],
     "permissions": [
-        "storage",
         "<all_urls>"
       ]
 }
