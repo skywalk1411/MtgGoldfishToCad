@@ -4,7 +4,7 @@ Firefox Extension website:
 [https://addons.mozilla.org/en-US/firefox/addon/mtggoldfishtocad/](https://addons.mozilla.org/en-US/firefox/addon/mtggoldfishtocad/)
 
 Automatic Installation:
-[https://addons.mozilla.org/firefox/downloads/file/3953198/mtggoldfishtocad-1.7.xpi](https://addons.mozilla.org/firefox/downloads/file/3953198/mtggoldfishtocad-1.7.xpi)
+[https://addons.mozilla.org/firefox/downloads/file/3953198/mtggoldfishtocad-1.8.xpi](https://addons.mozilla.org/firefox/downloads/file/3953198/mtggoldfishtocad-1.8.xpi)
 
 Manual Installation:
 
