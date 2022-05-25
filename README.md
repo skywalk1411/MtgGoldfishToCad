@@ -1,4 +1,4 @@
-# mtggoldfishtocad v1.7 sources
+# mtggoldfishtocad v1.8 sources
 
 Firefox Extension website:
 [https://addons.mozilla.org/en-US/firefox/addon/mtggoldfishtocad/](https://addons.mozilla.org/en-US/firefox/addon/mtggoldfishtocad/)
