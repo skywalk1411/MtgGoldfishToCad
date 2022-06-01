@@ -19,11 +19,12 @@
   [https://chrome.google.com/webstore/detail/mtggoldfishtocad/oijeabfolobllkahngcfppdlmdbjhbgk?hl=en&authuser=0](https://chrome.google.com/webstore/detail/mtggoldfishtocad/oijeabfolobllkahngcfppdlmdbjhbgk?hl=en&authuser=0)
 
 
-Manual Chrome Installation:
-1) Download url [https://github.com/skywalk1411/MtgGoldfishToCad/blob/main/chrome/chrome_ext18.zip](https://github.com/skywalk1411/MtgGoldfishToCad/blob/main/chrome/chrome_ext18.zip).
-2) Extract the chrome_ext18.zip files.
-3) Open Google Chrome at url [chrome://extensions/](chrome://extensions/)
-4) Drag the chrome folder extract from step 2) into the Google Chrome from step 3).
+   Manual Chrome Installation:
+   
+    1) Download url [https://github.com/skywalk1411/MtgGoldfishToCad/blob/main/chrome/chrome_ext18.zip](https://github.com/skywalk1411/MtgGoldfishToCad/blob/main/chrome/chrome_ext18.zip).
+    2) Extract the chrome_ext18.zip files.
+    3) Open Google Chrome at url [chrome://extensions/](chrome://extensions/)
+    4) Drag the chrome folder extract from step 2) into the Google Chrome from step 3).
 
 
 The MIT License [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license.php)
